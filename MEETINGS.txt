@@ -1,0 +1,15 @@
+Treffen: Morgen 18:30-20:30 Uhr 20.04.2018
+
+Available:
+
+TODO: 
+
+1.Connecting all together
+2.Adding the calender (plugin?)
+3.Database
+
+Search File for LG2Geda
+Load Image and Bootstrap
+
+DB
+
